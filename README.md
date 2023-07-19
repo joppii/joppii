@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img width="450px" src="https://raw.githubusercontent.com/joppii/github-stats-terminal-style/master/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
 <!--
 **joppii/joppii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
