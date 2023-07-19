@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+https://github.com/joppii/terminal/blob/master/github_stats.svg?short_path=2eadb6c
 <!--
 **joppii/joppii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
