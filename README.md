@@ -1,4 +1,5 @@
-![](https://github-readme-stats.vercel.app/api/top-langs?username=joppii&show_icons=true&locale=en&layout=compact)
+![](![](https://your-vercel-project.vercel.app/api/top-langs/?username=joppii&layout=compact&count_private=true)
+)
 
 ## Programming Languages
 
