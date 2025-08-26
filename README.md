@@ -1,6 +1,3 @@
-![](![](https://your-vercel-project.vercel.app/api/top-langs/?username=joppii&layout=compact&count_private=true)
-)
-
 ## Programming Languages
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,php," /> <br /><br />
@@ -12,3 +9,8 @@
 ## DB and Dev Tools etc
 
 <img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode,linux,nginx" /> <br /><br />
+[...existing code...]
+
+## GitHub Contributions Snake
+
+![github-contribution-grid-snake](./assets/github-contribution-grid-snake.svg)
