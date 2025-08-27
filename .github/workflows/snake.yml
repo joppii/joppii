@@ -1,0 +1,28 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 毎日実行
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Generate Snake Game from Contributions
+        uses: Platane/snk@v3
+        with:
+          github_user_name: yoppii
+          outputs: |
+            ./assets/github-contribution-grid-snake.svg
+            ./assets/github-contribution-grid-snake.gif
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "Generate snake game animation"
+          add: "assets/*"
+          github_token: ${{ secrets.MY_PROFILE }}
