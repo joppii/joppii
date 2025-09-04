@@ -9,7 +9,3 @@
 ## DB and Dev Tools etc
 
 <img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode,linux,nginx" /> <br /><br />
-
-## GitHub Contributions Snake
-
-![github-contribution-grid-snake](./assets/github-contribution-grid-snake.svg)
