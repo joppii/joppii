@@ -1,6 +1,6 @@
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,python" /> <br /><br />
 
 ## Frameworks and Library
 
