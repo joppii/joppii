@@ -1,14 +1,14 @@
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,python" /> <br /><br />
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,next,laravel,wordpress" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,laravel,wordpress" /> <br /><br />
 
-## DB and Dev Tools etc
+## Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode,linux,nginx" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode,linux,nginx,figma,ubuntu,windows,apple" /> <br /><br />
 
 ## Activities
 
